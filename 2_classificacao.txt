@@ -1,0 +1,7 @@
+<p>Para facilitar a identificação e a reciclagem, os resíduos eletrônicos são divididos em quatro categorias principais:</p>
+<ul>
+    <li><strong>Linha Branca:</strong> Eletrodomésticos de grande porte, como geladeiras, fogões e máquinas de lavar.</li>
+    <li><strong>Linha Marrom:</strong> Equipamentos de áudio e vídeo, como televisores, monitores e aparelhos de DVD.</li>
+    <li><strong>Linha Azul:</strong> Eletroportáteis, como liquidificadores, batedeiras, furadeiras e secadores de cabelo.</li>
+    <li><strong>Linha Verde:</strong> Equipamentos de informática e comunicação, como computadores, notebooks, tablets e celulares.</li>
+</ul>

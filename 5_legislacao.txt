@@ -1,0 +1,6 @@
+<p>Desde 2010, o Brasil possui a Política Nacional de Resíduos Sólidos (PNRS), que torna obrigatória a gestão ambientalmente correta do lixo eletrônico. Em 2020, o Decreto 10.240 regulamentou a logística reversa, estabelecendo uma responsabilidade compartilhada:</p>
+<ul>
+    <li><strong>Fabricantes, importadores e distribuidores:</strong> Devem estruturar e financiar o sistema de coleta e reciclagem.</li>
+    <li><strong>Consumidores:</strong> São responsáveis por descartar os produtos em locais adequados.</li>
+</ul>
+<p>Apesar da legislação, a falta de informação e a carência de pontos de coleta acessíveis ainda são os maiores desafios para a reciclagem no país.</p>

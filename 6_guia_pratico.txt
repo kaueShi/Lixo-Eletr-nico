@@ -1,0 +1,34 @@
+<p>Descartar seu lixo eletrônico é mais simples do que parece. Siga estes três passos:</p>
+
+<p><strong>Passo 1: Prepare o Dispositivo (Segurança em Primeiro Lugar!)</strong></p>
+<ul>
+    <li><strong>Backup:</strong> Salve todos os seus arquivos importantes (fotos, documentos) em um serviço de nuvem ou em um HD externo.</li>
+    <li><strong>Limpeza de Dados:</strong> A etapa mais crucial. Realize a restauração para o padrão de fábrica em celulares, tablets e computadores. Isso apaga suas contas e dados pessoais. Para computadores com informações muito sensíveis, considere remover e destruir fisicamente o disco rígido (HD/SSD).</li>
+</ul>
+
+<p><strong>Passo 2: Encontre o Ponto de Coleta Correto</strong></p>
+<p>Você não deve jogar eletrônicos no lixo comum ou reciclável tradicional. As opções corretas são:</p>
+<ul>
+    <li><strong>Pontos de Coleta Especializados:</strong> A ABREE (Associação Brasileira de Reciclagem de Eletroeletrônicos) possui milhares de pontos de coleta no Brasil. Utilize o site deles para encontrar o local mais próximo digitando seu CEP. <a href="https://abree.org.br/pontos-de-recebimento" target="_blank">Confira aqui os pontos de recebimento da ABREE</a>.</li>
+    <li><strong>Lojas e Fabricantes:</strong> Grandes varejistas e fabricantes possuem programas de coleta próprios. Verifique no site da marca do seu produto ou confira alguns links abaixo:
+        <ul>
+            <li><a href="https://www.samsung.com/br/support/programa-reciclagem/" target="_blank">Samsung Recicla</a></li>
+            <li><a href="https://www.claro.com.br/institucional/claro-recicla" target="_blank">Claro Recicla</a></li>
+            <li><a href="https://vivo.com.br/a-vivo/sustentabilidade/recicle" target="_blank">Vivo Recicle</a></li>
+            <li><a href="https://epson.com.br/reciclagem-programa-de-coleta" target="_blank">Epson Coleta</a></li>
+            <li><a href="https://www.dell.com/pt-br/dt/corporate/social-impact/advancing-sustainability/electronics-recycling/index.htm" target="_blank">Dell Recicla</a></li>
+            <li><a href="https://support.hp.com/br-pt/document/ish_7392282-7477706-16" target="_blank">HP Planet Partners</a></li>
+            <li><a href="https://www.motorola.com.br/institucional/reciclagem" target="_blank">Motorola Recicla</a></li>
+        </ul>
+        <p>Existem outras empresas que têm programas parecidos, vale a pena pesquisar.</p>
+    </li>
+    <li><strong>Ecopontos Municipais:</strong> Muitas prefeituras, incluindo as cidades do ABC Paulista, mantêm ecopontos que recebem lixo eletrônico.</li>
+</ul>
+
+<p><strong>Passo 3: Entenda a Jornada da Reciclagem</strong></p>
+<p>Após o descarte, seu aparelho passa por:</p>
+<ol>
+    <li><strong>Desmontagem e Triagem:</strong> Separação manual de componentes como baterias, plásticos e metais.</li>
+    <li><strong>Processamento:</strong> Os materiais são triturados e processados para recuperar as matérias-primas.</li>
+    <li><strong>Reintegração:</strong> O material recuperado volta para a indústria, fechando o ciclo da economia circular.</li>
+</ol>
